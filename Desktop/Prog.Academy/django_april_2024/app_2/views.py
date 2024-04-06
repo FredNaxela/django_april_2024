@@ -2,5 +2,5 @@
 from django.http import HttpResponse
 
 # Create your views here.
-def app_1(request):
+def app_2(request):
     return HttpResponse('<h1>App 2<h2/>')
